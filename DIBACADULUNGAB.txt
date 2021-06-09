@@ -1,0 +1,16 @@
+#generate jwt secret key di env
+php artisan jwt:secret
+#register user api di database
+http://localhost:8000/api/register
+
+enpoint list
+
+http://localhost:8000/api/register
+http://localhost:8000/api/login => generate token
+http://localhost:8000/api/logout
+http://localhost:8000/api/home
+http://localhost:8000/api/home/2 => id
+
+
+
+docs API : https://documenter.getpostman.com/view/4433773/TVKD1crk#749a2e1c-cbb2-4780-a595-e0ba3f6de380
